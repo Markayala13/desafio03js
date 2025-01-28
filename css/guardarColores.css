@@ -1,0 +1,19 @@
+body{
+display: flex;
+    align-items: center;
+justify-content: center;
+height: 100vh;
+}
+
+
+#key{
+display: flex;
+align-items: center;
+justify-content: center;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: white;
+
+
+}
